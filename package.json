@@ -1,7 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Chris Patchett"},
+	"author": "Chris Patchett",
 	"version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
